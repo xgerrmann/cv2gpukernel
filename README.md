@@ -4,9 +4,14 @@
 ![Original image](image.jpg)
 ![Output image](output.png)
 
-To make:\n
+To make:
+
 cd build
+
 cmake ..
+
 make
+
 cd ..
+
 ./build/main

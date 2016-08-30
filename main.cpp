@@ -2,10 +2,8 @@
 #include <cstdio>
 #include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
-#include "cudafuncs.hpp"
 
-using std::cout;
-using std::endl;
+#include "cudafuncs.hpp"
 
 int main()
 {
